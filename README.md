@@ -12,6 +12,9 @@ Lasso regression adds a penalty term to the linear regression cost function, whi
 Lasso regression is particularly useful when dealing with high-dimensional data where many features may not contribute significantly to the prediction. 
 
 # Problem Statement
-We have dataset of the mtcars dataset, curated for regression analysis employing ridge and lasso regression techniques. The dataset encapsulates essential automotive performance attributes alongside a diverse set of independent variables, facilitating predictive modeling of horsepower (hp) using ridge and lasso regression techniques.
+We have "mtcars" dataset comprises observations on various automotive attributes, The goal is to develop a predictive model that accurately estimates the horse piwer(hp) based on the other attributes provided. . The dataset encapsulates essential automotive performance attributes alongside a diverse set of independent variables, facilitating predictive modeling of horsepower (hp) using ridge and lasso regression techniques.
+
+# Variables
+
 
 
